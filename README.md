@@ -1,13 +1,6 @@
 # UNDERWATER-OBJECT-DETECTION-WITH-YOLOv8
 
-## YoloV8
-
-The YOLOv8 model is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and image segmentation tasks. It can be trained on large datasets and is capable of running on a variety of hardware platforms, from CPUs to GPUs.
-
-
-[YoloV8][1]
-
-[1]: https://docs.ultralytics.com/
+## YoloV7
 
 ## IMAGE PROCESSING PROCESS
 Data Collection: Objects prepared for the task are placed underwater in a pool environment. Underwater objects are recorded using a GoPro camera.
@@ -22,7 +15,7 @@ Data Splitting: Dividing the data set into test, train, and validation allows fo
 
 Data Labeling: Data labeling is necessary for training learning algorithms in AI applications and it specifies the meaning, features or categories of the data sets. Objects detected on images were labeled using makeSense.ai for the task of identifying objects in the image.
 
-## Train model with [YoloV8][1]
+## Train model with [YoloV7][1]
 
 Result: 
 
@@ -30,7 +23,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/60732734/226448805-6da8f8c2-851f-4d4d-bbd0-de4be008397e.png)
 
-Result graph of a model trained with yoloV8 :
+Result graph of a model trained with yoloV7 :
 
 ![image](https://user-images.githubusercontent.com/60732734/213565444-0a99770b-936f-439e-a064-9a370c3299c0.png)
 
